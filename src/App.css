@@ -230,6 +230,9 @@ h6 {
 /* end of Title */
 
 /* services */
+article {
+  border-bottom: 3px solid var(--primaryColor);
+}
 .services {
   padding: 5rem 0;
 }
